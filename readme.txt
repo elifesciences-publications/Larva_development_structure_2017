@@ -1,3 +1,9 @@
+
+
+### This code is associated with the paper from Gerhard et al., "Conserved neural circuit structure across Drosophila larval development revealed by comparative connectomics". eLife, 2017. http://dx.doi.org/10.7554/eLife.29089
+
+
+
 This repository contains data and analysis files for "Conserved neural circuit structure across Drosophila larval development revealed by comparative connectomics" by Gerhard et al. 2017.
 
 The data covers the morphology and connectivity of sensory and interneurons for the nociceptive system of the Drosophila larva, both in first and third instars, reconstructed from electron microscopy.
